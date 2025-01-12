@@ -56,14 +56,14 @@ We collaborate with stakeholders in agriculture, technology, and development to 
 ## 📬 Contact Us  
 
 💌 Got questions or want to collaborate? Reach out to us:  
-- 🌐 **Website:** [SmartMavuno.com](https://SmartMavuno.com)  
-- 📧 **Email:** info@SmartMavuno.com  
+- 🌐 **Website:** [🌍 SmartMavuno.com](https://SmartMavuno.com)  
+- 📧 **Email:** [📩 info@SmartMavuno.com](mailto:info@SmartMavuno.com)  
 - 📱 **Social Media:**  
-  - [Facebook](https://facebook.com/SmartMavuno)  
-  - [LinkedIn](https://linkedin.com/company/smartmavuno)  
-  - [Instagram](https://www.instagram.com/smartmavuno?igsh=MTRhZHUzcXBseHlhaQ==)  
-  - [TikTok](https://vm.tiktok.com/ZMkaeG25M/)  
-  - [X (formerly Twitter)](https://x.com/SmartMavuno)  
+  - [📘 Facebook](https://facebook.com/SmartMavuno)  
+  - [🔗 LinkedIn](https://linkedin.com/company/smartmavuno)  
+  - [📸 Instagram](https://www.instagram.com/smartmavuno?igsh=MTRhZHUzcXBseHlhaQ==)  
+  - [🎵 TikTok](https://vm.tiktok.com/ZMkaeG25M/)  
+  - [🐦 X (formerly Twitter)](https://x.com/SmartMavuno)  
  
 
 ---
