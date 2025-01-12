@@ -40,10 +40,10 @@ A future where every farmer is empowered, every harvest is sustainable, and ever
 
 ## 🛠️ Technologies We Use  
 
-- **USSD:** Node.js with Express  
-- **Mobile Development:** Kotlin Multiplatform  
-- **Web Application:** ReactJS  
-- **IoT:** AWS  
+- **USSD:** 
+- **Mobile Development:**
+- **Web Application:**
+- **IoT:** 
 
 ---
 
@@ -61,6 +61,10 @@ We collaborate with stakeholders in agriculture, technology, and development to 
 - 📱 **Social Media:**  
   - [Facebook](https://facebook.com/SmartMavuno)  
   - [LinkedIn](https://linkedin.com/company/smartmavuno)  
+  - [Instagram](https://www.instagram.com/smartmavuno?igsh=MTRhZHUzcXBseHlhaQ==)  
+  - [TikTok](https://vm.tiktok.com/ZMkaeG25M/)  
+  - [X (formerly Twitter)](https://x.com/SmartMavuno)  
+ 
 
 ---
 
